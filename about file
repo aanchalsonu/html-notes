@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            
+            color: black;
+            background-color: rgb(244 232 232);
+        }
+        .content{
+            font-size: 25px;
+            padding: 20px 20px 20px 20px ;
+            margin: 12px 12px 12px 12px;
+        }
+        .ab{
+            background-color: black;
+            color: white;
+            border: 2px solid black;
+            padding: 4px 113px 21px 681px;
+            margin: 3px -18px 9px -3px;
+            font-size: 33px;
+        }
+    </style>
+</head>
+<body>
+    <div class="ab">
+        About
+    </div>
+    <div class="content">
+        This website is to revise all the topics of HTML and CSS.<br>
+        Here all the topics learned by me are attached as my work. <br>
+        The language used to create this website are HTML and CSS which i have learned so far.<br>
+        For more details contact me at aanchalsonu1@gmail.com<br>
+    </div>
+</body>
+</html>
